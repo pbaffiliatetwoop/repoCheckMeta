@@ -1,1 +1,1 @@
-{"acl":{"read":"nobody","write":"nobody","execute":"nobody"},"contentType":"text/x-gfm"}
+{"contentType":"application/xml","acl":{"read":"nobody","write":"nobody","execute":"nobody"}}
